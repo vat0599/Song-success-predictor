@@ -1,7 +1,9 @@
 # Songs success predictor using Machine Learning
 Predicting song’s commercial success based on lyrics and other metrics using Machine Learning.
+
 Regarding the dataset used, as the folder was too large, I uploaded to my drive. So follow this link which connects to google drive and download the folder
 https://drive.google.com/open?id=1wZDzx3YhoVTiuMRnbRTd9b73uAR9Oafq
+
 Make sure that this folder and other files are in the same local directory in your PC.
 
 *Note: This project is an analysis of the various factors in which a song's "hit factor" is calculated.*
@@ -38,4 +40,5 @@ Make sure that this folder and other files are in the same local directory in yo
 
 ## Conclusion:
 For my dataset, it was found that non linear models have higher accuracies and are more stable than the linear ones.
+
 This may vary from dataset to dataset.
