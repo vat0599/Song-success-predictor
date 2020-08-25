@@ -1,17 +1,14 @@
 # Songs success predictor using Machine Learning
 Predicting song’s commercial success based on lyrics and other metrics using Machine Learning.
 
-Regarding the dataset used, as the folder was too large, I uploaded to my drive. So follow this link which connects to google drive and download the folder
-https://drive.google.com/open?id=1wZDzx3YhoVTiuMRnbRTd9b73uAR9Oafq
-
-Make sure that this folder and other files are in the same local directory in your PC.
+Make sure that MillionSongSubset folder and other files are in the same local directory in your PC.
 
 *Note: This project is an analysis of the various factors in which a song's "hit factor" is calculated.*
 *This is entirely hard-core ML case study and thus live demo is not available.*
 *Further development can be done in future to get the live hit factor rating for song that is played.*
 
 ## Steps to follow:
-- First download the dataset given in the link
+- Clone the repo.
 - After the download is done, we need to find the important features that affect the output variable.
 - For this reason, run cleaning_data.py
 - You will see there will be two csv sheets generated, namely training_data.csv, testing_data.csv
