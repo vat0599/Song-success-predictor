@@ -35,7 +35,3 @@ Make sure that MillionSongSubset folder and other files are in the same local di
 	- Random Forest
 	- Boosting
 
-## Conclusion:
-For my dataset, it was found that non linear models have higher accuracies and are more stable than the linear ones.
-
-This may vary from dataset to dataset.
