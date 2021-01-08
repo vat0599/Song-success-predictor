@@ -35,3 +35,5 @@ Make sure that MillionSongSubset folder and other files are in the same local di
 	- Random Forest
 	- Boosting
 
+## Contributions
+Do not hesitate to contribute by [filling an issue](https://github.com/vat0599/Song-success-predictor/issues) or [a PR](https://github.com/vat0599/Song-success-predictor/pulls) !
